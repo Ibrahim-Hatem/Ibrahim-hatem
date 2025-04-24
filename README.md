@@ -1,16 +1,41 @@
-## Hi there 👋
+# Welcome to My GitHub Profile
 
-<!--
-**Ibrahim-Hatem/Ibrahim-hatem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Ibrahim Al-Almani**, a passionate Software Engineer with a deep interest in **Web Development** and **Software Engineering**. 
 
-Here are some ideas to get you started:
+I specialize in the following areas:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Web Development**
+- **Frontend Technologies** (HTML, CSS, JavaScript, React)
+- **Backend Development** (Node.js, Python, Django)
+- **Data Structures & Algorithms**
+- **Database Management** (MySQL, MongoDB)
+- **Cloud Technologies & DevOps**
+
+---
+
+## My Skills
+
+- **Languages**: Python, JavaScript, C++, HTML, CSS
+- **Frameworks**: React, Express, Django, Flask
+- **Databases**: MySQL, MongoDB, PostgreSQL
+- **Tools**: Git, GitHub, Docker, VSCode
+- **Others**: Problem Solving, Algorithms, Web Development, etc.
+
+---
+
+## Animated Laptop Showcase
+
+Here’s a visual representation of a project I'm working on. This animated laptop showcases some programming code and projects:
+
+![Laptop Animation](https://your-animated-laptop-image-link.gif)
+
+---
+
+## Get in Touch
+
+Feel free to connect with me via:
+
+- Email: [hatemhema558@gmail.com](mailto:your-email@example.com)
+- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile)
+
+Thanks for visiting my profile!
